@@ -9,7 +9,7 @@ import codecs
 import msvcrt
 title_doc = True
 
-##################### LEXER#####################################
+##################### LEXER#################################
 reservadas = ['DOCTYPE', 
               'OPEN_ARTICLE','CLOSE_ARTICLE',
               'OPEN_INFO','CLOSE_INFO',
