@@ -1,0 +1,88 @@
+<!DOCTYPE article>
+<article>
+    <title> titulo del articulo <email> email_prueba-práctica@gmail.com </email> </title>
+    <para> 
+        hola este es un parrafo de pruebas . acentos : aáéíóú  ñ ñ. 
+        <emphasis> 
+            ESTO ES UN ENFASIS (?) 
+            <author>
+                <firstname>
+                    Lionel 
+                </firstname>
+                <surname>
+                    Messi
+                </surname>
+            </author>
+            <link xlink:href="https://www.facebook.com/"> ESTO FUE UN LINK </link>
+            <comment> 
+                comentario del trabajo
+            </comment>
+        </emphasis>
+    </para>
+    <para> 
+        otro parrafo para desarrollar
+        <informaltable>
+            <tgroup>
+                <thead>
+                    <row>
+                        <entry>
+                            PROBAMOS UNA TABLA
+                        </entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>
+                            !!!!!!!!PRUEBA! GRUPO2
+                        </entry>
+                    </row>
+                </tbody>
+            </tgroup>
+	    </informaltable>
+        <itemizedlist>
+            <listitem>
+                <para>
+                    Messi el mejor del mundo abz
+                </para>
+            </listitem>
+            <listitem>
+                <mediaobject>
+                    <imageobject>
+                        <imagedata fileref="https://phantom-elmundo.unidadeditorial.es/4573b5bbac919a0eb93c54846aedbc66/resize/473/f/webp/assets/multimedia/imagenes/2022/12/19/16714678174157.jpg"/>
+                    </imageobject>
+                </mediaobject>
+            </listitem>
+	    </itemizedlist>
+    </para>
+    <itemizedlist>
+        <listitem>
+            <address>
+                    direccion de Messi
+            </address>
+                <para>
+                    MIAMI
+                    <mediaobject>
+                        <imageobject>
+                            <imagedata fileref="https://www.barnes-miami.com/wp-content/uploads/2021/03/MG_6_1_Miami-1024x711.jpg"/>
+                        </imageobject>
+                    </mediaobject>
+                    <author>
+                        <firstname>
+                            DENISE, AGUSTIN, FABRICIO ,MIGUE 
+                        </firstname>
+                    </author>
+                    <important>
+                        <title>
+                            IMPORTANTE
+                        </title>
+                        <simpara>
+                            <emphasis> 
+                                PRUEBA DE TEXTO
+                            </emphasis>
+                        </simpara>
+                    </important>
+                </para>
+        </listitem>
+    </itemizedlist>        
+</article>
+

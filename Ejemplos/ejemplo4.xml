@@ -1,0 +1,40 @@
+<!DOCTYPE article>
+    <article>
+        <title> titulo del articulo <email> email_prueba-práctica@gmail.com </email> </title>
+        <para> 
+            hola este es un parrafo de pruebas . acentos : aáéíóú ñ ñ. 
+            <emphasis> 
+                ESTO ES UN ENFASIS (?) 
+                <author>
+                    <firstname>
+                        Lionel 
+                    </firtstname>
+                    <surname>
+                        Messi
+                    </surnaname>
+                </author>
+                <link xlink:href ="https://frre.cvg.utn.edu.ar/"></link>
+                <comment> 
+                    comentario del trabajo
+                </comment>
+            </emphasis>
+        </para>
+        <para> 
+            otro parrafo zz 
+        </para>
+        <itemizedlist>
+          <listitem>
+            <para>
+              esto 
+            </para>
+            <para>
+              es una 
+            </para>
+            <para>
+              lista 
+            </para>
+          </listitem>
+        </itemizedlist>
+    </article>
+            
+

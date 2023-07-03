@@ -1,0 +1,49 @@
+<!DOCTYPE article>
+<article>
+	<info>
+		<title> titulo nuevo </title>
+		<address>
+			<city> RESISTENCIA</city>
+			<phone>123456789</phone>
+		</address>
+	</info>
+	<title>
+		HOLAAAA
+	</title>
+	<para>
+		<informaltable>
+			<tgroup>
+				<thead>
+					<row>
+						<entry>
+							Link
+						</entry>
+					</row>
+				</thead>
+				<tbody>
+					<row>
+						<entry>
+							<mediaobject>
+								<imageobject>
+									<imagedata fileref="https://imagenes.elpais.com/resizer/l72glorWNLWlsOYRUjOEjeB1Hzk=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/ZAI3VUKWCOV5NMOQXQSA4ZTP7Q.jpg/"></imagedata>								
+								</imageobject>
+							</mediaobject>
+						</entry>
+					</row>
+				</tbody>
+			</tgroup>
+		</informaltable>
+		<link xlink:href="https://www.facebook.com/">facebook</link>
+		<important>
+			<title> Titulo Importante </title>
+			<para>
+				Texto importante
+			</para>
+		</important>
+	</para>
+	<section>
+		<title> ROMANIA ES LIBRE </title>
+		<para> BOCA LE GANO A SARMIENTO </para>
+	</section>
+</article>
+	

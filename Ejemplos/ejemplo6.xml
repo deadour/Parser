@@ -1,0 +1,57 @@
+<!DOCTYPE article>
+<article>
+	<info>
+		<address>
+			<city> RESISTENCIA</city>
+			<street> French </street>
+			<phone> 36240303456 </phone>
+			<state> CHACO</state>
+		</address>
+		<author>
+			<firstname>JUAN PEDRO</firstname>
+			<surname>PEPE </surname>
+		</author>
+	</info>
+	<title>
+		EXPERTOS EN PARSER (mentira)
+	</title>
+	<informaltable>
+	<tgroup>
+		<thead>
+			<row>
+				<entry>
+					GRAN ASADO
+				</entry>
+			</row>
+		</thead>
+		<tbody>
+			<row>
+				<entry>
+				  LA MEJOR CARNE ARGENTINA
+				</entry>
+			</row>
+		</tbody>
+	</tgroup>
+	</informaltable>
+	<itemizedlist>
+		<listitem>
+    <listitem>
+      <para>
+		    ensalada
+      </para>
+      <para>
+		    cubiertos
+      </para>
+      <para>
+		    gaseosa
+      </para>
+		</listitem>
+		<listitem>
+			<mediaobject>
+				<imageobject>
+					<imagedata fileref="https://www.cronica.com.ar/__export/1652620767340/sites/cronica/img/2022/05/15/cortes-de-carne-para-asado_crop1652620712995_crop1652620751470.jpg_1833193316.jpg"/>
+				</imageobject>
+			</mediaobject>
+		</listitem>
+	</itemizedlist>
+</article>
